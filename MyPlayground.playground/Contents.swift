@@ -9,3 +9,5 @@ Herb.typeProperty
 Herb.typeProperty = 10
 
 Herb.typeProperty
+
+//haha
